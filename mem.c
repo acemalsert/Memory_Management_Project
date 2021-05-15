@@ -1,7 +1,6 @@
 
 /*
  * Author :    Ahmet Cemal Sert - Talip Sina Postaci
- * ID:         43999263780      - 19390083036
  * Project :   CMPE382 Project2
  * Title :     Creating TEDU_alloc
  *
